@@ -266,7 +266,8 @@ int main(void)
 
   /* USER CODE END 2 */
 ```
-CPU 내부온도 : ![KakaoTalk_20260121_113552056](https://github.com/user-attachments/assets/e03e9d3a-e845-455d-982b-12245d189370)
+CPU 내부온도 : ![KakaoTalk_20260121_143740073](https://github.com/user-attachments/assets/7e46a9e6-e371-46eb-a847-45795c0c10b9)
+
 
 ```C
   /* Infinite loop */

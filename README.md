@@ -1076,6 +1076,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 ## ---오실로스코프 측정값----
-![KakaoTalk_20260121_123053374](https://github.com/user-attachments/assets/9dd1bb8d-65a8-43b4-bbd6-6c196614341a)
+![KakaoTalk_20260121_123053374](https://github.com/user-attachments/assets/df6e745d-f63b-48ef-86e1-366eb8f5a993)
+
 
 

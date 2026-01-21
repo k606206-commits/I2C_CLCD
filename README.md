@@ -1076,8 +1076,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 # 오실로스코프 측정 사진
-![KakaoTalk_20260121_123053374](https://github.com/user-attachments/assets/cba9449d-5410-4856-9125-ae2a7bf01dea.jpg)
 
+
+<img width="1008" height="756" alt="KakaoTalk_20260121_123053374" src="https://github.com/user-attachments/assets/1504de98-c984-4fa7-9c3f-184d3b66679d" />
 
 
 

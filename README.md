@@ -1075,7 +1075,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
-## ---오실로스코프 측정값----
+# 오실로스코프 측정 사진
 <img width="706" height="170" alt="129" src="https://github.com/user-attachments/assets/df6e745d-f63b-48ef-86e1-366eb8f5a993" />
 
 
